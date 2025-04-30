@@ -1,0 +1,5 @@
+worker_processes 2
+timeout 30
+preload_app true
+listen 8080
+pid "/tmp/unicorn.pid"
