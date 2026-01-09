@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 # Core gems
-gem 'rails', '~> 8.0.2'
+gem 'rails', '~> 8.1.2'
 gem 'unicorn'
 
 # Timezone support for Windows and JRuby
